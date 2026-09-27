@@ -1,0 +1,14 @@
+name: FCaptcha
+website_url: https://github.com/WebDecoy/FCaptcha
+source_code_url: https://github.com/WebDecoy/FCaptcha
+description: A CAPTCHA combining browser signals, behavioral analysis, and proof of work, with checkbox and invisible modes and server-side token verification. Detects AI agents driving real browsers and stealth automation tools.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Nodejs
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: https://webdecoy.com/product/fcaptcha-demo/
