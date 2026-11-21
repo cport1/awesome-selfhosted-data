@@ -1,0 +1,14 @@
+name: FCaptcha
+website_url: https://webdecoy.com/product/fcaptcha/
+source_code_url: https://github.com/WebDecoy/FCaptcha
+description: Self-hosted CAPTCHA that detects bots, headless browsers and AI agents driving real browsers using behavioral signals and proof of work. Drop-in replacement for reCAPTCHA and Turnstile.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+  - Nodejs
+  - Python
+tags:
+  - Miscellaneous
+demo_url: https://webdecoy.com/product/fcaptcha-demo/
